@@ -1,0 +1,17 @@
+Project Title: Credit Card Default Prediction
+Project Domain: Financial Risk Assessment - By predicting potential defaults, financial institutions can take proactive measures, thereby reducing losses and better managing risks.
+
+Datasets:
+Default of Credit Card Clients Dataset from UCI:
+Link to UCI Default of Credit Card Clients DatasetLinks to an external site.
+Credit Card Fraud Detection Dataset 2023
+https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023
+
+Problem or Opportunity Addressed: By identifying clients who are likely to default on their credit card payments, banks and financial institutions can take preemptive actions, such as offering financial counseling, restructuring debt, or limiting further credit extension, thus potentially reducing the financial loss.
+
+Scope: Train a machine learning model to predict the likelihood of a credit card client defaulting in the next month based on their historical data.
+
+AWS Tools to use:
+Amazon S3: Store the dataset securely.
+Amazon SageMaker: Data Preprocessing,Model Training, Model Evaluation, Model Deployment
+Amazon QuickSight: Visualize model performance, feature importance, and potentially identify trends or patterns in defaults.
